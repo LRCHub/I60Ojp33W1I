@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Lips",
+  "base_artist": "IVE",
+  "createdAt": "2026-02-11T08:12:13.673327Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Proof Is on Your Lips",
+      "artist": "Ryan Robinette",
+      "has_synced": true,
+      "path": "select/01_Proof_Is_on_Your_Lips_Ryan_Robinette.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Red Lips, Blue Eyes, Little White Lies",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/02_Red_Lips,_Blue_Eyes,_Little_White_Lies_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Red Lips, Blue Eyes, Little White Lies (Album Version)",
+      "artist": "Gary Allan",
+      "has_synced": true,
+      "path": "select/03_Red_Lips,_Blue_Eyes,_Little_White_Lies_(Album_Version)_Gary_Allan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summer On Your Lips",
+      "artist": "Conner Smith",
+      "has_synced": true,
+      "path": "select/04_Summer_On_Your_Lips_Conner_Smith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Talk Back Trembling Lips",
+      "artist": "Ernie Ashworth",
+      "has_synced": false,
+      "path": "select/05_Talk_Back_Trembling_Lips_Ernie_Ashworth.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Talk Back Trembling Lips",
+      "artist": "Ernest Ashworth",
+      "has_synced": false,
+      "path": "select/06_Talk_Back_Trembling_Lips_Ernest_Ashworth.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go!)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/07_Cherry_Lips_(Go_Baby_Go!)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/08_Cherry_Lips_(Go_Baby_Go)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go) [Roger Sanchez Remix]",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/09_Cherry_Lips_(Go_Baby_Go)_[Roger_Sanchez_Remix]_Garbage.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cherry Lips (Go Baby Go) (Roger Sanchez)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/10_Cherry_Lips_(Go_Baby_Go)_(Roger_Sanchez)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dry Lips",
+      "artist": "Lightspeed Champion",
+      "has_synced": false,
+      "path": "select/11_Dry_Lips_Lightspeed_Champion.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dry Lips",
+      "artist": "Lightspeed Champion",
+      "has_synced": false,
+      "path": "select/12_Dry_Lips_Lightspeed_Champion.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lips N' Stuff",
+      "artist": "Les Savy Fav",
+      "has_synced": true,
+      "path": "select/13_Lips_N'_Stuff_Les_Savy_Fav.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lips Are Unhappy",
+      "artist": "Lucky Soul",
+      "has_synced": true,
+      "path": "select/14_Lips_Are_Unhappy_Lucky_Soul.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lips",
+      "artist": "Micachu & The Shapes",
+      "has_synced": true,
+      "path": "select/15_Lips_Micachu_&_The_Shapes.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "White Lips Kissed",
+      "artist": "MEW",
+      "has_synced": true,
+      "path": "select/16_White_Lips_Kissed_MEW.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lips",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_Lips_IVE.txt"
+    }
+  ]
+}
